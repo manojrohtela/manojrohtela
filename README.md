@@ -1,8 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=210&section=header&text=Manoj%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Product%20Engineer%20%C2%B7%2012%2B%20years&descSize=20&descAlignY=60&animation=fadeIn" />
+<a href="https://heyagenthive.com"><img width="100%" src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/header.png" alt="Manoj Kumar — Backend & AI Product Engineer · 12+ years · I ship AI products end-to-end"></a>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B7CFF&center=true&vCenter=true&width=760&lines=I+ship+AI+products+end-to-end;14+production+AI+agents+%40+AgentHive;Voice+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+AWS;From+idea+to+deployed%2C+real-user-ready)](https://heyagenthive.com)
 
 <a href="https://heyagenthive.com"><img src="https://img.shields.io/badge/🐝_AgentHive-live-6c63ff?style=for-the-badge"></a>
 <a href="https://linkedin.com/in/manoj-kumar-507b2523"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -126,4 +124,4 @@ Backend / AI-product engineering — **Python · FastAPI · GenAI (LLMs, RAG, vo
 
 <a href="https://linkedin.com/in/manoj-kumar-507b2523"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=120&section=footer" />
+<div align="center"><sub>⚡ Always building · <a href="https://heyagenthive.com">heyagenthive.com</a></sub></div>
