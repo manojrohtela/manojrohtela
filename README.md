@@ -13,21 +13,56 @@
 
 ## 🚀 Live products I've built & shipped
 
-> The code is private — the products are live. **Click and try them.**
+> The code is private — the products are live. **Click any card to try it.** 👇
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://heyagenthive.com">
+        <img src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/screenshots/agenthive.png" width="100%" alt="AgentHive">
+      </a>
+      <h3>🐝 AgentHive — <a href="https://heyagenthive.com">Live&nbsp;↗</a></h3>
+      <p>A hub of <b>14 specialized AI agents</b> under one roof.</p>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/LLMs-6c63ff">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://voxhire.heyagenthive.com">
+        <img src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/screenshots/voxhire.png" width="100%" alt="VoxHire">
+      </a>
+      <h3>🎙️ VoxHire — <a href="https://voxhire.heyagenthive.com">Live&nbsp;↗</a></h3>
+      <p>AI <b>voice interviews</b> that screen candidates into scored, shareable reports.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Vapi-6c63ff">
+      <img src="https://img.shields.io/badge/Groq-F55036">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://medifriend.heyagenthive.com">
+        <img src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/screenshots/medifriend.png" width="100%" alt="MediFriend">
+      </a>
+      <h3>💊 MediFriend — <a href="https://medifriend.heyagenthive.com">Live&nbsp;↗</a></h3>
+      <p>Generic medicines, <b>Jan Aushadhi</b> savings & the nearest store.</p>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://phantom.heyagenthive.com">
+        <img src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/screenshots/phantom.png" width="100%" alt="Phantom">
+      </a>
+      <h3>🫥 Phantom — <a href="https://phantom.heyagenthive.com">Live&nbsp;↗</a></h3>
+      <p>A screen-share-<b>invisible</b> AI meeting copilot (desktop).</p>
+      <img src="https://img.shields.io/badge/Electron-2C2E3B?logo=electron&logoColor=white">
+      <img src="https://img.shields.io/badge/Groq-F55036">
+      <img src="https://img.shields.io/badge/Whisper-412991">
+    </td>
+  </tr>
+</table>
 
-| Product | What it does | Stack | |
-|---|---|---|:--:|
-| **🐝 AgentHive** | A hub of **14 specialized AI agents** under one roof | React · Vite · FastAPI · LLMs | **[Open ↗](https://heyagenthive.com)** |
-| **🎙️ VoxHire** | AI **voice interviews** that screen candidates and auto-score them into shareable reports | Next.js · FastAPI · Vapi · Groq · Supabase | **[Open ↗](https://voxhire.heyagenthive.com)** |
-| **💊 MediFriend** | Find generic medicines, **Jan Aushadhi** savings & the nearest store | React · FastAPI · SQLite · Groq | **[Open ↗](https://medifriend.heyagenthive.com)** |
-| **🫥 Phantom** | A screen-share-invisible AI meeting copilot (desktop) | Electron · Groq · Whisper | **[Open ↗](https://phantom.heyagenthive.com)** |
-| **⚖️ LawExpert** | Legal **RAG** over Indian case law — grounded answers in statutes | Next.js · FastAPI · RAG | **[Code ↗](https://github.com/manojrohtela/lawexpert)** |
-
-</div>
-
-<sub>…plus the rest of the hive: **Finpilot · ResumeIQ · ContractLens · InterviewCoach · NutriPlan · BrandForge · Plotify · ScoreKeeper · DataWhisperer · SalesAgent · ViralRepurposer** — each a focused, deployed AI agent.</sub>
+<div align="center"><sub>…plus the rest of the hive: <b>⚖️ LawExpert · Finpilot · ResumeIQ · ContractLens · InterviewCoach · NutriPlan · BrandForge · Plotify · ScoreKeeper · DataWhisperer · SalesAgent · ViralRepurposer</b> — each a focused, deployed AI agent.</sub></div>
 
 ## 🐍 Watch the snake eat my contributions
 
