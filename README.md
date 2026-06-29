@@ -29,7 +29,15 @@
 
 <sub>…plus the rest of the hive: **Finpilot · ResumeIQ · ContractLens · InterviewCoach · NutriPlan · BrandForge · Plotify · ScoreKeeper · DataWhisperer · SalesAgent · ViralRepurposer** — each a focused, deployed AI agent.</sub>
 
-## 📈 Contribution activity
+## 🐍 Watch the snake eat my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/github-snake.svg">
+    <img alt="snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/manojrohtela/manojrohtela/main/assets/github-snake-dark.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=manojrohtela&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b7cff&line=8b7cff&point=ffffff&area=true&area_color=8b7cff">
