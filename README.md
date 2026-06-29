@@ -86,6 +86,14 @@
 | [system-design-notes](https://github.com/manojrohtela/system-design-notes) | Caching, Kafka, Redis, rate limiting, scaling patterns |
 | [sql-performance-playground](https://github.com/manojrohtela/sql-performance-playground) | Index tuning, join optimization, EXPLAIN plans |
 
+## 📱 A decade of iOS under the hood
+
+Before going deep on backend & AI, I spent **10+ years building and leading iOS** — which is why I care about performance, clean architecture, and shipping polish.
+
+- **Swift · SwiftUI · UIKit · Combine · CoreML · GCD/Concurrency** — MVVM / VIPER, modular & testable
+- **Lead iOS Engineer** on apps serving **10M+ users** — Momspresso · MyMoney · MyMo · 1800Flowers
+- Sample iOS repos: [CameraSwiftUI](https://github.com/manojrohtela/CameraSwiftUI) · [CombineMaster](https://github.com/manojrohtela/CombineMater) · [PhotosCollectionView · MVVM](https://github.com/manojrohtela/PhotosCollectionViewMVVM) · [ListWithSearch](https://github.com/manojrohtela/ListWithSearch)
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -94,6 +102,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/LLMs_·_RAG-6c63ff?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
