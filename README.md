@@ -70,9 +70,6 @@
 <div align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojrohtela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=8b7cff">
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojrohtela&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4">
-</div>
 
 ## 💼 Experience
 
